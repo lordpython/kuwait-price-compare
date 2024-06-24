@@ -1,0 +1,10 @@
+streamlit==1.31.1
+langchain==0.1.12
+langchain-groq==0.0.3
+langchain-anthropic==0.1.4
+langchain-community==0.0.28
+crewai==0.16.2
+openai==1.13.3
+anthropic==0.20.0
+requests==2.31.0
+beautifulsoup4==4.12.3
